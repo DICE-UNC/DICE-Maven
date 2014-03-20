@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.irods</groupId>
+  <artifactId>jargon</artifactId>
+  <version>3.3.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140320.162758</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20140320162758</lastUpdated>
+  </versioning>
+</metadata>

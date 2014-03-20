@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.irods.jargon</groupId>
+  <artifactId>jargon-ticket</artifactId>
+  <version>3.3.2-RELEASE</version>
+  <versioning>
+    <versions>
+      <version>3.3.2-RELEASE</version>
+    </versions>
+    <lastUpdated>20140320163512</lastUpdated>
+  </versioning>
+</metadata>
