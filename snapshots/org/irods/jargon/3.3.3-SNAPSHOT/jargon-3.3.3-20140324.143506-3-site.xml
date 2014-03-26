@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Jargon">
+  <bannerLeft>
+    <name>Jargon</name>
+  </bannerLeft>
+  <bannerRight>
+    <src></src>
+  </bannerRight>
+  <body>
+    <links>
+      <item name="gForge" href="https://code.renci.org/gf/project/jargon" />
+      <item name="Hudson" href="https://ci-dev.renci.org/hudson" />
+    </links>
+    <menu name="Jargon">
+      <item name="About" href="index.html" />
+      <item name="Code Format" href="codeFormat.html" />
+    </menu>
+    <menu name="Modules" ref="modules">
+      <item name="Jargon Core" href="jargon-core/index.html" />
+      <item name="Jargon User Tagging" href="jargon-user-tagging/index.html" />
+      <item name="Jargon Data Utils" href="jargon-data-utils/index.html" />
+      <item name="Jargon Ticket" href="jargon-ticket/index.html" />
+      <item name="Jargon HttpStream" href="http://maven.apache.org/index.html" />
+      <item name="User Profile Service" href="jargon-user-profile/index.html" />
+      <item name="Jargon Conveyor" href="http://maven.apache.org/index.html" />
+      <item name="Jargon Workflow" href="jargon-workflow/index.html" />
+      <item name="Jargon Rule Service" href="jargon-ruleservice/index.html" />
+    </menu>
+  </body>
+</project>
