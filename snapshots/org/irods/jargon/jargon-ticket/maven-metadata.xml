@@ -2,13 +2,12 @@
 <metadata>
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-ticket</artifactId>
-  <version>3.3.3-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>3.3.3-SNAPSHOT</version>
       <version>3.3.2-SNAPSHOT</version>
       <version>3.3.2.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140324143512</lastUpdated>
+    <lastUpdated>20140408173255</lastUpdated>
   </versioning>
 </metadata>

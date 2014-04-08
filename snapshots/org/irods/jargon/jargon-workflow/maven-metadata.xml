@@ -2,11 +2,10 @@
 <metadata>
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-workflow</artifactId>
-  <version>3.3.3-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>3.3.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140324143542</lastUpdated>
+    <lastUpdated>20140408173257</lastUpdated>
   </versioning>
 </metadata>

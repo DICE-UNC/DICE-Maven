@@ -2,11 +2,10 @@
 <metadata>
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-conveyor</artifactId>
-  <version>3.3.3-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>3.3.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140324143513</lastUpdated>
+    <lastUpdated>20140408173256</lastUpdated>
   </versioning>
 </metadata>
