@@ -2,12 +2,11 @@
 <metadata>
   <groupId>org.irods.jargon.transfer</groupId>
   <artifactId>jargon-transfer-dao-spring</artifactId>
-  <version>3.3.2-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>3.3.2-SNAPSHOT</version>
       <version>3.3.2.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140320163823</lastUpdated>
+    <lastUpdated>20140516201021</lastUpdated>
   </versioning>
 </metadata>
