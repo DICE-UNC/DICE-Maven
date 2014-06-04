@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.dfc</groupId>
+  <artifactId>dfc-dataverse-integration</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140604123203</lastUpdated>
+  </versioning>
+</metadata>
