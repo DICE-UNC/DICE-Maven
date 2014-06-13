@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.irods.jargon</groupId>
+  <artifactId>data-profile</artifactId>
+  <versioning>
+    <versions>
+      <version>3.3.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140613142159</lastUpdated>
+  </versioning>
+</metadata>
