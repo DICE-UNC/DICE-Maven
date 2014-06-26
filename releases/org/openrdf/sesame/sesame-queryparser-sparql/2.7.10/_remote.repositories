@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 30 11:08:34 EDT 2014
+sesame-queryparser-sparql-2.7.10.jar>=
+sesame-queryparser-sparql-2.7.10.jar>renci.repository=
+sesame-queryparser-sparql-2.7.10.pom>renci.repository=

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>org.openrdf.elmo</groupId>
+		<artifactId>elmo-concepts</artifactId>
+		<version>1.5</version>
+	</parent>
+
+	<artifactId>elmo-foaf</artifactId>
+
+	<name>FOAF Concepts</name>
+	<description>
+FOAF is about your place in the Web, and the Web's place in our world. FOAF is
+a simple technology that makes it easier to share and use information about
+people and their activities (eg. photos, calendars, weblogs), to transfer
+information between Web sites, and to automatically extend, merge and re-use it
+online.
+	</description>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.openrdf.elmo</groupId>
+			<artifactId>elmo-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.openrdf.elmo</groupId>
+			<artifactId>elmo-rdfs</artifactId>
+		</dependency>
+	</dependencies>
+
+</project>

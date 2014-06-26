@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Nov 11 15:03:24 EST 2013
+http\://ci-dev.renci.org/nexus/content/repositories/public/.error=
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.error=
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1384200203018
+http\://repo.aduna-software.org/maven2/releases/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1384200204754
+http\://repo.open.med.harvard.edu/nexus/content/repositories/public/.error=
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1384200204339
+http\://repo.aduna-software.org/maven2/releases/.lastUpdated=1384200203677
+http\://repo.open.med.harvard.edu/nexus/content/repositories/public/.lastUpdated=1384200203778
+http\://dev.mapfish.org/maven/repository/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://dev.mapfish.org/maven/repository/.lastUpdated=1384200204644
+http\://ci-dev.renci.org/nexus/content/repositories/public/.lastUpdated=1384200203381

@@ -1,0 +1,18 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 30 11:03:29 EDT 2014
+http\://ci-dev.renci.org/nexus/content/repositories/public/.error=
+https\://raw.github.com/DICE-UNC/DICE-Maven/master/snapshots/.error=
+https\://raw.github.com/DICE-UNC/DICE-Maven/master/snapshots/.lastUpdated=1401462205877
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.error=
+https\://raw.github.com/DICE-UNC/DICE-Maven/master/releases/.error=
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1401462205197
+http\://repo.maven.apache.org/maven2/.lastUpdated=1401462209051
+http\://repo.open.med.harvard.edu/nexus/content/repositories/public/.error=
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1401462208681
+http\://repo.open.med.harvard.edu/nexus/content/repositories/public/.lastUpdated=1401462208128
+http\://dev.mapfish.org/maven/repository/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/DICE-UNC/DICE-Maven/master/releases/.lastUpdated=1401462205523
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://dev.mapfish.org/maven/repository/.lastUpdated=1401462208966
+http\://ci-dev.renci.org/nexus/content/repositories/public/.lastUpdated=1401462206252

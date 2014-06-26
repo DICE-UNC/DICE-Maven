@@ -1,0 +1,20 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jun 10 15:45:59 EDT 2014
+https\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1402429559907
+https\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+https\://raw.github.com/DICE-UNC/DICE-Maven/master/snapshots/.error=
+https\://maven.atlassian.com/content/repositories/.error=
+https\://raw.github.com/DICE-UNC/DICE-Maven/master/snapshots/.lastUpdated=1395762325807
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1395762325607
+http\://repo.maven.apache.org/maven2/.lastUpdated=1395762327271
+http\://ci-dev.renci.org/nexus/content/repositories/public/.lastUpdated=1395762327203
+http\://repo.maven.apache.org/maven2/.error=
+https\://raw.github.com/DICE-UNC/DICE-Maven/master/releases/.lastUpdated=1395762326091
+http\://download.osgeo.org/webdav/geotools/.lastUpdated=1396355380257
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.error=
+http\://download.osgeo.org/webdav/geotools/.error=
+http\://ci-dev.renci.org/nexus/content/repositories/public/.error=
+default-https\://repository.jboss.org/nexus/service/local/staging/deploy/maven2/.lastUpdated=1395762326831
+https\://repository.jboss.org/nexus/service/local/staging/deploy/maven2/.error=Could not transfer artifact org.globus.jglobus\:cog-jglobus\:jar\:sources\:1.8.0 from/to jboss (https\://repository.jboss.org/nexus/service/local/staging/deploy/maven2/)\: Access denied to https\://repository.jboss.org/nexus/service/local/staging/deploy/maven2/org/globus/jglobus/cog-jglobus/1.8.0/cog-jglobus-1.8.0-sources.jar. Error code 401, Unauthorized
+https\://maven.atlassian.com/content/repositories/.lastUpdated=1396355379663
+https\://raw.github.com/DICE-UNC/DICE-Maven/master/releases/.error=
