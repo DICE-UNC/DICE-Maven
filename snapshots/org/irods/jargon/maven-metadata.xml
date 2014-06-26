@@ -4,11 +4,8 @@
   <artifactId>jargon</artifactId>
   <versioning>
     <versions>
-      <version>3.3.3-SNAPSHOT</version>
-      <version>3.3.2-SNAPSHOT</version>
-      <version>3.3.2.1-SNAPSHOT</version>
       <version>3.3.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140626144648</lastUpdated>
+    <lastUpdated>20140626190456</lastUpdated>
   </versioning>
 </metadata>

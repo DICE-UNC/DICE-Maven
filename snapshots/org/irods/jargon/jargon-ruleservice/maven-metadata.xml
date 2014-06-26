@@ -4,9 +4,8 @@
   <artifactId>jargon-ruleservice</artifactId>
   <versioning>
     <versions>
-      <version>3.3.3-SNAPSHOT</version>
       <version>3.3.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140626144657</lastUpdated>
+    <lastUpdated>20140626190505</lastUpdated>
   </versioning>
 </metadata>
