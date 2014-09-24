@@ -1,3 +1,3 @@
-Provisional testing of gitHub based Maven repository
+DICE Maven repositories, these are the canonical maven artifacts for iRODS java development
 
-go to code.renci.org for current canonical git repositories
+
