@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.irods.jargon</groupId>
+  <artifactId>jargon-user-tagging</artifactId>
+  <version>4.0.2.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20141103.163542</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20141103163542</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.0.2.1-20141103.163542-1</value>
+        <updated>20141103163542</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.0.2.1-20141103.163542-1</value>
+        <updated>20141103163542</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
