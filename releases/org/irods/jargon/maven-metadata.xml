@@ -3,14 +3,15 @@
   <groupId>org.irods</groupId>
   <artifactId>jargon</artifactId>
   <versioning>
-    <release>4.0.2.1-RELEASE</release>
+    <release>4.0.2.2-RELEASE</release>
     <versions>
       <version>3.3.2-RELEASE</version>
       <version>3.3.3-beta1</version>
       <version>4.0.2-RELEASE</version>
       <version>4.0.2.1-RC1</version>
       <version>4.0.2.1-RELEASE</version>
+      <version>4.0.2.2-RELEASE</version>
     </versions>
-    <lastUpdated>20150423145343</lastUpdated>
+    <lastUpdated>20150522184246</lastUpdated>
   </versioning>
 </metadata>
