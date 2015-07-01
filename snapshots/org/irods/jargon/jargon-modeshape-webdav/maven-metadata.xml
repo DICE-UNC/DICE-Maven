@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.irods.jargon</groupId>
+  <artifactId>jargon-modeshape-webdav</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150630191110</lastUpdated>
+  </versioning>
+</metadata>
