@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-extensions-if</artifactId>
   <version>4.0.3.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20150827.113640</timestamp>
-      <buildNumber>11</buildNumber>
+      <timestamp>20151215.202150</timestamp>
+      <buildNumber>18</buildNumber>
     </snapshot>
-    <lastUpdated>20150827113640</lastUpdated>
-    <snapshotVersions>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>4.0.3.1-20150827.113640-11</value>
-        <updated>20150827113640</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>4.0.3.1-20150827.113640-11</value>
-        <updated>20150827113640</updated>
-      </snapshotVersion>
-    </snapshotVersions>
+    <lastUpdated>20151215202150</lastUpdated>
   </versioning>
 </metadata>

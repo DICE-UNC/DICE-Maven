@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-ruleservice</artifactId>
   <version>4.0.3.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20151123.181154</timestamp>
-      <buildNumber>34</buildNumber>
+      <timestamp>20151215.201735</timestamp>
+      <buildNumber>35</buildNumber>
     </snapshot>
-    <lastUpdated>20151123181154</lastUpdated>
-    <snapshotVersions>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>4.0.3.1-20151123.181154-34</value>
-        <updated>20151123181154</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>4.0.3.1-20151123.181154-34</value>
-        <updated>20151123181154</updated>
-      </snapshotVersion>
-    </snapshotVersions>
+    <lastUpdated>20151215201755</lastUpdated>
   </versioning>
 </metadata>
