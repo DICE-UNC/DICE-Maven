@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.irods.jargon</groupId>
+  <artifactId>jargon-httpstream</artifactId>
+  <version>4.1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160407.140058</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160407141237</lastUpdated>
+  </versioning>
+</metadata>
