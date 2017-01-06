@@ -3,7 +3,7 @@
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-data-utils</artifactId>
   <versioning>
-    <release>4.0.2.6-RELEASE</release>
+    <release>4.1.10.0-RC1</release>
     <versions>
       <version>3.3.2-RELEASE</version>
       <version>3.3.3-beta1</version>
@@ -18,7 +18,8 @@
       <version>4.0.2.5-RELEASE</version>
       <version>4.0.2.6-RC1</version>
       <version>4.0.2.6-RELEASE</version>
+      <version>4.1.10.0-RC1</version>
     </versions>
-    <lastUpdated>20160713134922</lastUpdated>
+    <lastUpdated>20170106174540</lastUpdated>
   </versioning>
 </metadata>
