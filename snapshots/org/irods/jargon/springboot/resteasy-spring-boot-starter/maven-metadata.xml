@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>org.irods</groupId>
-  <artifactId>jargon-pom</artifactId>
+  <groupId>org.irods.jargon.springboot</groupId>
+  <artifactId>resteasy-spring-boot-starter</artifactId>
   <versioning>
     <versions>
       <version>4.1.10.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170208192920</lastUpdated>
+    <lastUpdated>20170208192647</lastUpdated>
   </versioning>
 </metadata>
