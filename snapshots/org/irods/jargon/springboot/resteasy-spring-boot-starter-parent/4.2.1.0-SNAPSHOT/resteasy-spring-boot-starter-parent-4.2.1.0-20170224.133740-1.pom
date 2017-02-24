@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.irods</groupId>
+		<artifactId>jargon-pom</artifactId>
+		<version>4.2.1.0-SNAPSHOT</version>
+	</parent>
+	<groupId>org.irods.jargon.springboot</groupId>
+	<artifactId>resteasy-spring-boot-starter-parent</artifactId>
+	<packaging>pom</packaging>
+	<repositories>
+		<repository>
+			<id>dice.repository snaps</id>
+			<name>dice.repository.snapshots</name>
+			<url>https://raw.github.com/DICE-UNC/DICE-Maven/master/snapshots</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>warn</checksumPolicy>
+			</snapshots>
+		</repository>
+		<repository>
+			<id>dice.repository</id>
+			<name>dice.repository</name>
+			<url>https://raw.github.com/DICE-UNC/DICE-Maven/master/releases</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>warn</checksumPolicy>
+			</snapshots>
+		</repository>
+	</repositories>
+
+	
+	<modules>
+		<module>resteasy-spring-boot-starter</module>
+	</modules>
+
+</project>
