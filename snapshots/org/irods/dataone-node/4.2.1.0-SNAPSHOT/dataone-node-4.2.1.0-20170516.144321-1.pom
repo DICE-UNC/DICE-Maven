@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>dataone-node</artifactId>
+	<parent>
+		<groupId>org.irods</groupId>
+		<artifactId>dfc-dataone</artifactId>
+		<version>4.2.1.0-SNAPSHOT</version>
+	</parent>
+	<packaging>war</packaging>
+	<name>DataONE Node</name>
+	<dependencies>
+		<dependency>
+			<groupId>javax.inject</groupId>
+			<artifactId>javax.inject</artifactId>
+			<version>1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.eclipse.jdt.core.compiler</groupId>
+			<artifactId>ecj</artifactId>
+			<version>4.2.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-jaxrs</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-jackson-provider</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-crypto</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>tjws</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-multipart-provider</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-jettison-provider</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<!-- JAXB support -->
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-jaxb-provider</artifactId>
+		</dependency>
+		<!-- Spring integration -->
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-spring</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.irods.jargon</groupId>
+			<artifactId>jargon-core</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<!-- <dependency> <groupId>org.irods.jargon</groupId> <artifactId>data-profile</artifactId> 
+			</dependency> -->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-all</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-expression</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aop</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-beans</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.dataone</groupId>
+			<artifactId>d1_libclient_java</artifactId>
+			<exclusions>
+				<exclusion>
+					<groupId>ch.qos.logback</groupId>
+					<artifactId>logback-classic</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>org.irods</groupId>
+			<artifactId>pid-service-api</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.irods</groupId>
+			<artifactId>event-service-api</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.irods</groupId>
+			<artifactId>dataone-utils</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<!-- 
+		<dependency>
+			<groupId>org.irods.jargon.springboot</groupId>
+			<artifactId>resteasy-spring-boot-starter</artifactId>
+			<exclusions>
+				<exclusion>
+					<groupId>ch.qos.logback</groupId>
+					<artifactId>logback-classic</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency> -->
+		<dependency>
+			<groupId>org.xeustechnologies</groupId>
+			<artifactId>jcl-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.reflections</groupId>
+			<artifactId>reflections</artifactId>
+		</dependency>
+	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-antrun-plugin</artifactId>
+				<executions>
+					<execution>
+						<goals>
+							<goal>run</goal>
+						</goals>
+						<phase>generate-sources</phase>
+						<configuration>
+							<tasks>
+								<property name="src.dir" value="${project.build.sourceDirectory}" />
+								<property name="package.dir" value="org/irods/jargon/dataone/utils" />
+								<property name="package.name" value="org.irods.jargon.dataone.utils" />
+								<property name="buildtime" value="${maven.build.timestamp}" />
+
+								<echo file="${src.dir}/${package.dir}/RestVersion.java"
+									message="package ${package.name};${line.separator}" />
+								<echo file="${src.dir}/${package.dir}/RestVersion.java"
+									append="true" message="public final class RestVersion {${line.separator}" />
+								<echo file="${src.dir}/${package.dir}/RestVersion.java"
+									append="true"
+									message=" public static String VERSION=&quot;${project.version}&quot;;${line.separator}" />
+								<echo file="${src.dir}/${package.dir}/RestVersion.java"
+									append="true"
+									message=" public static String BUILD_TIME=&quot;${buildtime}&quot;;${line.separator}" />
+								<echo file="${src.dir}/${package.dir}/RestVersion.java"
+									append="true" message="}${line.separator}" />
+								<echo message="BUILD ${buildtime}" />
+							</tasks>
+						</configuration>
+					</execution>
+					<execution>
+						<id>0</id>
+						<phase>validate</phase>
+						<configuration>
+							<tasks>
+								<delete file="${basedir}/src/test/resources/test-dataone.properties" />
+								<touch file="${basedir}/src/test/resources/test-dataone.properties"
+									mkdirs="true" />
+								<echo file="${basedir}/src/test/resources/test-dataone.properties"
+									append="true">
+									irods.user=${jargon.test.irods.user}
+									irods.password=${jargon.test.irods.password}
+									irods.resource=${jargon.test.irods.resource}
+									irods.host=${jargon.test.irods.host}
+									irods.port=${jargon.test.irods.port}
+									irods.zone=${jargon.test.irods.zone}
+									plugin.jar.location=${test.plugin.jar.location}
+								</echo>
+								<copy
+									todir="${project.build.directory}/${project.name}-${project.version}/WEB-INF/lib">
+									<fileset dir="src/main/lib" />
+								</copy>
+							</tasks>
+						</configuration>
+						<goals>
+							<goal>run</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin><!-- 
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>1.5.1.RELEASE</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>repackage</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin> -->
+		</plugins>
+		<pluginManagement>
+			<plugins />
+
+		</pluginManagement>
+	</build>
+</project>
