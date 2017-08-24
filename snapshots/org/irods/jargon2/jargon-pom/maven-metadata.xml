@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.irods.jargon2</groupId>
+  <artifactId>jargon-pom</artifactId>
+  <versioning>
+    <versions>
+      <version>4.3.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170811191756</lastUpdated>
+  </versioning>
+</metadata>
