@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.irods</groupId>
+  <artifactId>jargon-pom</artifactId>
+  <version>4.3.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180628.140804</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180628140804</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.3.0.1-20180628.140804-1</value>
+        <updated>20180628140804</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
