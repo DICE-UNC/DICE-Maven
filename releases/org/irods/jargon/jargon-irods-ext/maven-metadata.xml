@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.irods.jargon</groupId>
-  <artifactId>jargon-extensions-if</artifactId>
+  <artifactId>jargon-irods-ext</artifactId>
   <versioning>
     <release>4.3.0.0-RELEASE</release>
     <versions>
       <version>4.3.0.0-RELEASE</version>
     </versions>
-    <lastUpdated>20180705185059</lastUpdated>
+    <lastUpdated>20180705185748</lastUpdated>
   </versioning>
 </metadata>
