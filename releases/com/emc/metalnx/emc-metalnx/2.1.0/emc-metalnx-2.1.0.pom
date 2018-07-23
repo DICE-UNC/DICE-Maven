@@ -20,7 +20,7 @@
 		<!-- Spring -->
 		<spring.version>5.0.7.RELEASE</spring.version>
 		<spring.security.version>5.0.6.RELEASE</spring.security.version>
-		<spring.batch.version>5.0.7.RELEASE</spring.batch.version>
+		<spring.batch.version>4.0.1.RELEASE</spring.batch.version>
 
 		<!-- Hibernate -->
 		<hibernate.version>4.1.7.Final</hibernate.version>
