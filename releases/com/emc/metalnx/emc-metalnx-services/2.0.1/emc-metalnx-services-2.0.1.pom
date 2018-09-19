@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright (c) 2018, University of North Carolina at Chapel Hill -->
+<?xml version="1.0" encoding="UTF-8"?><!-- Copyright (c) 2018, University of North Carolina at Chapel Hill -->
+<!-- Copyright (c) 2015-2017, Dell EMC -->
 <project xmlns="http://maven.apache.org/POM/4.0.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -14,15 +14,15 @@
 		<dependency>
 			<groupId>org.irods.jargon</groupId>
 			<artifactId>jargon-extensions-if</artifactId>
-		</dependency>
+			</dependency>
 		<dependency>
 			<groupId>org.irods.jargon</groupId>
 			<artifactId>irodsext-data-profiler</artifactId>
-		</dependency>
+			</dependency>
 		<dependency>
 			<groupId>org.irods.jargon</groupId>
 			<artifactId>irodsext-data-typer</artifactId>
-		</dependency>
+			</dependency>
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
@@ -69,20 +69,28 @@
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-test</artifactId>
 		</dependency>
+
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<scope>test</scope>
 		</dependency>
+
 		<dependency>
 			<groupId>javax.el</groupId>
 			<artifactId>el-api</artifactId>
 			<scope>test</scope>
 		</dependency>
+
 		<dependency>
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-core</artifactId>
 			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
 		</dependency>
 
 		<dependency>
@@ -95,7 +103,9 @@
 			<artifactId>mail</artifactId>
 			<version>1.4.7</version>
 		</dependency>
+
 	</dependencies>
+
 	<build>
 		<plugins>
 			<plugin>
@@ -200,9 +210,12 @@
 									default.storage.resource=${jargon.test.irods.resource}
 									ssl.negotiation.policy=${metalnx.ssl.policy}
 
+
 									utilize.packing.streams=${metalnx.packing.streams}
 
+
 									compute.checksum=${metalnx.compute.checksum}
+
 
 									db.driverClassName=${metalnx.jdbc.driver}
 									db.url=${metalnx.jdbc.url}
@@ -210,10 +223,13 @@
 									db.password=${metalnx.jdbc.password}
 									hibernate.dialect=${metalnx.jdbc.dialect}
 
+
 									hibernate.show_sql=true
 									hibernate.format_sql=false
 
+
 									hibernate.hbm2ddl.auto=update
+
 
 									connection.pool_size=5
 
@@ -223,6 +239,7 @@
 									jobs.irods.password=${jargon.test.irods.admin.password}
 									jobs.irods.auth.scheme=${metalnx.auth.scheme}
 									runSyncJobs=true
+
 
 									rmd.connection.timeout=500
 									rmd.connection.port=8000
@@ -253,9 +270,9 @@
 
 									metalnx.enable.tickets=${metalnx.enable.tickets}
 									metalnx.enable.upload.rules=${metalnx.enable.upload.rules}
-
 									metalnx.download.limit=${metalnx.download.limit}
 									access.proxy=true
+
 
 									irodsext.dataprofiler.retrieve.tickets=false
 
@@ -264,14 +281,13 @@
 									irodsext.dataprofiler.retrieve.shared=false
 
 									irodsext.dataprofiler.retrieve.tags.and.comments=false
+
 									irodsext.dataprofiler.retrieve.metadata.templates=false
-									irodsext.datatyper.persist.data.types=false
-									irodsext.dataprofiler.retrieve.metadata.templates=false
-									irodsext.datatyper.persist.data.types=false
-									irodsext.datatyper.detailed.determination=false
+
 
 									irodsext.datatyper.persist.data.types=false
-	
+
+
 									irodsext.datatyper.detailed.determination=false
 
 									mail.enabled=${metalnx.mail.enabled}
