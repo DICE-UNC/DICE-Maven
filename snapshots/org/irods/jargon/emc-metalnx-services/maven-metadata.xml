@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.irods.jargon</groupId>
+  <artifactId>emc-metalnx-services</artifactId>
+  <versioning>
+    <versions>
+      <version>4.3.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20181002141133</lastUpdated>
+  </versioning>
+</metadata>

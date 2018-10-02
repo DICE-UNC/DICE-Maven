@@ -9,11 +9,10 @@
 	<packaging>pom</packaging>
 
 	<properties>
-		<project.version>2.0.0</project.version>
+		<project.version>1.4.0</project.version>
 
 		<!-- Jargon -->
 		<jargon.version>4.3.1.0-SNAPSHOT</jargon.version>
-
 
 		<!-- Spring -->
 		<spring.version>4.3.18.RELEASE</spring.version>
@@ -408,6 +407,12 @@
 				<artifactId>mockito-core</artifactId>
 				<version>${mockito.version}</version>
 				<scope>test</scope>
+			</dependency>
+
+			<dependency>
+				<groupId>com.thunderstone.ws</groupId>
+  				<artifactId>thunderstoneSoap</artifactId>
+  				<version>0.0.1-SNAPSHOT</version>
 			</dependency>
 
 			<dependency>

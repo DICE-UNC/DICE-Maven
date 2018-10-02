@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.irods.jargon</groupId>
+  <artifactId>emc-metalnx-core</artifactId>
+  <version>4.3.1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181002.141122</timestamp>
+      <buildNumber>8</buildNumber>
+    </snapshot>
+    <lastUpdated>20181002141122</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.3.1.0-20181002.141122-8</value>
+        <updated>20181002141122</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.3.1.0-20181002.141122-8</value>
+        <updated>20181002141122</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
