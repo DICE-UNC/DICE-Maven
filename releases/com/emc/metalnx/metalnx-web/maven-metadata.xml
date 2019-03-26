@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.emc.metalnx</groupId>
+  <artifactId>metalnx-web</artifactId>
+  <versioning>
+    <release>2.0.0-RELEASE</release>
+    <versions>
+      <version>2.0.0-RELEASE</version>
+    </versions>
+    <lastUpdated>20190326154139</lastUpdated>
+  </versioning>
+</metadata>
