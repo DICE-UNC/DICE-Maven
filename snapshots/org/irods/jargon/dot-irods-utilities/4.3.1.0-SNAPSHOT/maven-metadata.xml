@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.irods.jargon</groupId>
+  <artifactId>dot-irods-utilities</artifactId>
+  <version>4.3.1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190624.132320</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20190624132320</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.3.1.0-20190624.132320-3</value>
+        <updated>20190624132320</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.3.1.0-20190624.132320-3</value>
+        <updated>20190624132320</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
