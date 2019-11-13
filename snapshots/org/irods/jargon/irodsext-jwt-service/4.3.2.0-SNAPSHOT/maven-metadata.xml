@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.irods.jargon</groupId>
+  <artifactId>irodsext-jwt-service</artifactId>
+  <version>4.3.2.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191113.200102</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191113200102</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.3.2.0-20191113.200102-1</value>
+        <updated>20191113200102</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.3.2.0-20191113.200102-1</value>
+        <updated>20191113200102</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
