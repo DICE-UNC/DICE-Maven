@@ -3,11 +3,12 @@
   <groupId>org.irods.jargon</groupId>
   <artifactId>data-profile</artifactId>
   <versioning>
-    <release>4.3.0.1-RELEASE</release>
+    <release>4.3.1.0-RELEASE</release>
     <versions>
       <version>4.3.0.0-RELEASE</version>
       <version>4.3.0.1-RELEASE</version>
+      <version>4.3.1.0-RELEASE</version>
     </versions>
-    <lastUpdated>20181024211420</lastUpdated>
+    <lastUpdated>20200124215118</lastUpdated>
   </versioning>
 </metadata>
