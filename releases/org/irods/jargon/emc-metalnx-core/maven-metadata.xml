@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.irods.jargon</groupId>
-  <artifactId>jargon-irods-ext</artifactId>
+  <artifactId>emc-metalnx-core</artifactId>
   <versioning>
     <release>4.3.1.0-RELEASE</release>
     <versions>
-      <version>4.3.0.0-RELEASE</version>
-      <version>4.3.0.1-RELEASE</version>
-      <version>4.3.0.2-RELEASE</version>
       <version>4.3.1.0-RELEASE</version>
     </versions>
-    <lastUpdated>20200127142509</lastUpdated>
+    <lastUpdated>20200127142512</lastUpdated>
   </versioning>
 </metadata>
