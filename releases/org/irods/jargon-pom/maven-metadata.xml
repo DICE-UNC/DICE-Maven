@@ -3,13 +3,14 @@
   <groupId>org.irods</groupId>
   <artifactId>jargon-pom</artifactId>
   <versioning>
-    <release>4.3.1.0-RELEASE</release>
+    <release>4.3.2.0-RELEASE</release>
     <versions>
       <version>4.3.0.0-RELEASE</version>
       <version>4.3.0.1-RELEASE</version>
       <version>4.3.0.2-RELEASE</version>
       <version>4.3.1.0-RELEASE</version>
+      <version>4.3.2.0-RELEASE</version>
     </versions>
-    <lastUpdated>20200127145048</lastUpdated>
+    <lastUpdated>20201113155954</lastUpdated>
   </versioning>
 </metadata>
