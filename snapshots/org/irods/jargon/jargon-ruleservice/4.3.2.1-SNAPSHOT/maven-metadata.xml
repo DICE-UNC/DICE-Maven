@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.irods.jargon</groupId>
+  <artifactId>jargon-ruleservice</artifactId>
+  <version>4.3.2.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20201117.135716</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20201117135716</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.3.2.1-20201117.135716-3</value>
+        <updated>20201117135716</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.3.2.1-20201117.135716-3</value>
+        <updated>20201117135716</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
