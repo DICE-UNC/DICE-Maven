@@ -3,7 +3,7 @@
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-ruleservice</artifactId>
   <versioning>
-    <release>4.3.2.0-RELEASE</release>
+    <release>4.3.2.1-RELEASE</release>
     <versions>
       <version>3.3.3-beta1</version>
       <version>4.0.2-RELEASE</version>
@@ -27,7 +27,8 @@
       <version>4.3.0.1-RELEASE</version>
       <version>4.3.1.0-RELEASE</version>
       <version>4.3.2.0-RELEASE</version>
+      <version>4.3.2.1-RELEASE</version>
     </versions>
-    <lastUpdated>20201113180630</lastUpdated>
+    <lastUpdated>20210226201910</lastUpdated>
   </versioning>
 </metadata>
