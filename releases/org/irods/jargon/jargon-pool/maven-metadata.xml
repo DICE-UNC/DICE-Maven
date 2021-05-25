@@ -3,7 +3,7 @@
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-pool</artifactId>
   <versioning>
-    <release>4.3.2.1-RELEASE</release>
+    <release>4.3.2.2-RELEASE</release>
     <versions>
       <version>4.2.0.0-RELEASE</version>
       <version>4.2.2.0-RELEASE</version>
@@ -13,7 +13,8 @@
       <version>4.3.1.0-RELEASE</version>
       <version>4.3.2.0-RELEASE</version>
       <version>4.3.2.1-RELEASE</version>
+      <version>4.3.2.2-RELEASE</version>
     </versions>
-    <lastUpdated>20210226201909</lastUpdated>
+    <lastUpdated>20210525154832</lastUpdated>
   </versioning>
 </metadata>
