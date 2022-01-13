@@ -3,13 +3,14 @@
   <groupId>org.irods.jargon</groupId>
   <artifactId>emc-metalnx-core</artifactId>
   <versioning>
-    <release>4.3.2.2-RELEASE</release>
+    <release>4.3.2.4-RELEASE</release>
     <versions>
       <version>4.3.1.0-RELEASE</version>
       <version>4.3.2.0-RELEASE</version>
       <version>4.3.2.1-RELEASE</version>
       <version>4.3.2.2-RELEASE</version>
+      <version>4.3.2.4-RELEASE</version>
     </versions>
-    <lastUpdated>20210525182400</lastUpdated>
+    <lastUpdated>20211221205921</lastUpdated>
   </versioning>
 </metadata>
