@@ -3,7 +3,7 @@
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-ticket</artifactId>
   <versioning>
-    <release>4.3.2.4-RELEASE</release>
+    <release>4.3.2.5-RELEASE</release>
     <versions>
       <version>3.3.2-RELEASE</version>
       <version>3.3.3-beta1</version>
@@ -31,7 +31,8 @@
       <version>4.3.2.1-RELEASE</version>
       <version>4.3.2.2-RELEASE</version>
       <version>4.3.2.4-RELEASE</version>
+      <version>4.3.2.5-RELEASE</version>
     </versions>
-    <lastUpdated>20220125214744</lastUpdated>
+    <lastUpdated>20220214191317</lastUpdated>
   </versioning>
 </metadata>
