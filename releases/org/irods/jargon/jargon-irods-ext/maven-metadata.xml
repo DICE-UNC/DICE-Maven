@@ -3,7 +3,7 @@
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-irods-ext</artifactId>
   <versioning>
-    <release>4.3.2.5-RELEASE</release>
+    <release>4.3.3.0-RELEASE</release>
     <versions>
       <version>4.3.0.0-RELEASE</version>
       <version>4.3.0.1-RELEASE</version>
@@ -14,7 +14,8 @@
       <version>4.3.2.2-RELEASE</version>
       <version>4.3.2.4-RELEASE</version>
       <version>4.3.2.5-RELEASE</version>
+      <version>4.3.3.0-RELEASE</version>
     </versions>
-    <lastUpdated>20220215161809</lastUpdated>
+    <lastUpdated>20221215155428</lastUpdated>
   </versioning>
 </metadata>
