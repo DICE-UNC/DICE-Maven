@@ -3,7 +3,7 @@
   <groupId>org.irods.jargon</groupId>
   <artifactId>jargon-mdquery</artifactId>
   <versioning>
-    <release>4.3.6.0-RELEASE</release>
+    <release>4.3.7.0-RELEASE</release>
     <versions>
       <version>4.3.0.0-RELEASE</version>
       <version>4.3.0.1-RELEASE</version>
@@ -17,7 +17,8 @@
       <version>4.3.4.0-RELEASE</version>
       <version>4.3.5.0-RELEASE</version>
       <version>4.3.6.0-RELEASE</version>
+      <version>4.3.7.0-RELEASE</version>
     </versions>
-    <lastUpdated>20250326214339</lastUpdated>
+    <lastUpdated>20250602130036</lastUpdated>
   </versioning>
 </metadata>
